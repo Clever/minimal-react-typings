@@ -25,6 +25,12 @@ declare namespace React {
   var Children: ReactChildren;
   var PropTypes: ReactPropTypes;
 
+
+  //
+  // Original @types/react definitions:
+  // Copied from https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts
+  //
+
   //
   // React.PropTypes
   // ----------------------------------------------------------------------
